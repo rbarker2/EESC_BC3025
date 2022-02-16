@@ -1,0 +1,13 @@
+h	Q
+(cm)	(L/s)
+0	0.00E+00
+0.5	1.17E-03
+1	4.66E-03
+1.5	2.01E-02
+2	4.02E-02
+2.5	6.71E-02
+3	9.63E-02
+3.5	1.53E-01
+	
+h: head above the notch	
+Q: discharge rate	
